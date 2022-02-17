@@ -42,7 +42,24 @@ html, body {
 #rodape {
   background-color: black;
   box-shadow: 1px 2px 5px rgba(0,0,0,0.5);
-  position:relative ;
+  position: relative;
   width: 100%;
   height: 5%;
+}
+
+#followus {
+  width: 300px;
+  height: 100%;
+  float: center;
+}
+
+#followus table{
+  color: #ffffff;
+  margin: 0 auto;
+  margin-right: 5px;
+  height: 100%;
+}
+
+#followus a {
+  color: white;
 }
