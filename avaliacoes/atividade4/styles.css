@@ -28,6 +28,7 @@ html, body {
   margin: 0 auto;
   margin-right: 5px;
   height: 100%;
+  float: left;
 }
 
 #menu table td{
@@ -71,7 +72,7 @@ html, body {
   width: 960px;
   margin: 0 auto;
   position: relative;
-  min-height: 85%;
+  min-height: 100%;
 }
 
 #imagemd {
@@ -83,9 +84,33 @@ html, body {
   float: right;
 }
 
+#textod p{
+  font-size:10pt ;
+  text-align: justify ;
 
+}
 
-
+#imagemh {
+  float: right;
+}
 #textoh{
   float: left;
+  position: relative;
+  width:300px;
+}
+#textoh p {
+  font-size:10pt ;
+  text-align: justify;
+}
+
+#imagemk{
+  float: left;
+}
+#textok{
+  float: right;
+  width: 300px;
+}
+#textok p{
+  font-size: 10pt;
+  text-align:justify ;
 }
